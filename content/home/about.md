@@ -41,3 +41,5 @@ I am a young and pleasant junior developer who is passionate in software develop
 I love programming and researching new technologies included website building, mobile apps development, and IoT.
 
 Born: 1994 - Current position: iOS Developer.
+
+English name: Alvin Nguyen - Chinese name: 阮伯英。
